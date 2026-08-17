@@ -1,31 +1,30 @@
-# 👋 Olá! Sou Marcos Felipe
+# 👋 Hi, I'm Marcos Felipe!
 
-Desenvolvedor focado em **Engenharia de Sistemas Embarcados**, firmware bare-metal, processamento digital de sinais e integração hardware-software.
+**Embedded Systems & Firmware Engineer**, focused on bare-metal firmware, digital signal processing, FPGA development, and hardware-software integration.
 
 ---
 
-### 💻 Linguagens de Programação & HDLs
+### 💻 Programming Languages & HDLs
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-4EAA25?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-002B36?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-005571?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-002B36?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-005571?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
 
-### 🏢 Fabricantes & Ecossistemas de Hardware
+### 🏢 Hardware Ecosystems & Silicon Vendors
 <p>
   <img src="https://img.shields.io/badge/STMicroelectronics-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Microchip-EB1C24?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/Texas_Instruments-CC0000?style=for-the-badge&logo=circuitverse&logoColor=white" />
   <img src="https://img.shields.io/badge/NXP_Semiconductors-FFA500?style=for-the-badge&logo=nxp&logoColor=black" />
-  <img src="https://img.shields.io/badge/Renesas-001F5C?style=for-the-badge&logo=renesas&logoColor=white" />
   <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/BeagleBoard-009900?style=for-the-badge&logo=beagleboard&logoColor=white" />
@@ -33,9 +32,9 @@ Desenvolvedor focado em **Engenharia de Sistemas Embarcados**, firmware bare-met
 
 ---
 
-### ⚙️ Sistemas Operacionais, RTOS & Frameworks
+### ⚙️ Operating Systems, RTOS & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Zephyr_RTOS-7B1FA2?style=for-the-badge&logo=zephyrproject&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -45,7 +44,7 @@ Desenvolvedor focado em **Engenharia de Sistemas Embarcados**, firmware bare-met
 
 ---
 
-### 🛠️ Ferramentas de Desenvolvimento, EDA & Build
+### 🛠️ Development Tools, EDA & Build Systems
 <p>
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
@@ -58,18 +57,7 @@ Desenvolvedor focado em **Engenharia de Sistemas Embarcados**, firmware bare-met
 
 ---
 
-### 🔬 Laboratórios de Estudo & Pesquisa
-
-* 📦 **[microcontroller-lab](https://github.com/SEU-USUARIO/microcontroller-lab)**: Periféricos bare-metal, registradores, DMA e interrupções (PIC16/18, STM32, MSP430).
-* 📦 **[dsp-lab](https://github.com/SEU-USUARIO/dsp-lab)**: Algoritmos de controle digital (PID, FOC) e filtros digitais (FIR, IIR, FFT).
-* 📦 **[rtos-lab](https://github.com/SEU-USUARIO/rtos-lab)**: Primitivas de sincronização, filas e drivers sob FreeRTOS e Zephyr.
-* 📦 **[fpga-lab](https://github.com/SEU-USUARIO/fpga-lab)**: Lógica digital combinacional/sequencial e síntese RTL.
-* 📦 **[embedded-linux-lab](https://github.com/SEU-USUARIO/embedded-linux-lab)**: U-Boot, Device Tree, compilação de Kernel e desenvolvimento de drivers.
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Analytics
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcosfelipe161&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfelipe161&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfelipe161&theme=tokyonight&hide_border=true" />
 </p>
