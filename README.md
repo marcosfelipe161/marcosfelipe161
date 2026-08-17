@@ -70,6 +70,6 @@ Desenvolvedor focado em **Engenharia de Sistemas Embarcados**, firmware bare-met
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosfelipe161&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfelipe161&theme=dark" alt="GitHub Streak" />
 </p>
