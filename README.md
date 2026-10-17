@@ -2,8 +2,9 @@
 Electrical Engineering student focused on embedded systems, firmware development, and hardware–software integration.
 I enjoy building systems that connect software with real hardware — from microcontroller firmware and sensor interfaces to actuator control and digital design.
 <p>
-  <a href="www.linkedin.com/in/marcos-felipe-44a6b52ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:marcosfelipessc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/marcos-felipe-44a6b52ba/?isSelfProfile=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  <a href="mailto:marcosfelipessc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/marcosfelipe161/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
